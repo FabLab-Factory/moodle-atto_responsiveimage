@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_responsiveimage-button",
+  "builds": {
+    "moodle-atto_responsiveimage-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}
